@@ -7,7 +7,7 @@ As I'm in the midst of application season, updates here may be slow. That said, 
 - 📝 I regularly write articles on [https://blog.csdn.net/Scabbards_?spm=1011.2124.3001.5343](https://blog.csdn.net/Scabbards_?spm=1011.2124.3001.5343)
 - 📫 How to reach me: scaaabbards@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scabbards1500&layout=donut)](https://github.com/Scabbards1500/github-readme-stats)
 <p align="center">
   <!-- Programming Languages -->
