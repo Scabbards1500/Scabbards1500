@@ -1,7 +1,8 @@
+![EO394R 4EIP3Y%~ECJNS2CC](https://github.com/user-attachments/assets/8bb776f4-b2ee-4500-b154-5c45e3e25f19)![EO394R 4EIP3Y%~ECJNS2CC](https://github.com/user-attachments/assets/9f4596ac-1498-428a-b518-113f805e38bd)
 ## Hi there 👋
+Hi, I'm Scabbards! You can call me 1500 or 00. I'm currently a senior undergraduate student, primarily focusing on medical deep learning, with occasional forays into data-related projects. My mental state is barely holding up, thanks to the unwavering support of Sanae Kochiya🐸🐍. 
 
-<!--
-**Scabbards1500/Scabbards1500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As I'm in the midst of application season, updates here may be slow. That said, I warmly welcome everyone to connect, learn, and collaborate with me! 😊
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
